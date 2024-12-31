@@ -13,3 +13,5 @@ How to run the file ?
 Just click on the colab link and you can use it.
 
 Colab Link: https://colab.research.google.com/github/SantoshRokaya/Transfer-Learning-for-Medical-Image-Classification/blob/main/Deep_Minds_Group_Project.ipynb
+
+Note: You will require the json file from kaggle for uploading the dataset to the colab session.

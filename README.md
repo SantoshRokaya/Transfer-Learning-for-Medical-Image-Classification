@@ -5,6 +5,8 @@ Group Members: Santosh Rokaya (2411105), Sandali Vithanage (2304821)
 
 
 What is the project about ?
+
+
 The project focuses on enhancing the detection of diabetic retinopathy using transfer learning techniques. It addresses the challenges in medical imaging, such as the difficulty of obtaining large, labeled datasets due to privacy concerns, high annotation costs, and the limited availability of expert knowledge. By leveraging pre-trained models on large datasets and 
 fine-tuning them for diabetic retinopathy detection, the project aims to improve performance on smaller datasets. Additionally, it emphasizes understanding classification results through visualizations and explainable AI techniques to make the model's decisions more interpretable.
 

@@ -1,5 +1,6 @@
 # Transfer-Learning-for-Medical-Image-Classification
 Group Name: Deep Minds
+
 Group Members: Santosh Rokaya (2411105), Sandali Vithanage (2304821)
 
 
@@ -14,4 +15,4 @@ Just click on the colab link and you can use it.
 
 Colab Link: https://colab.research.google.com/github/SantoshRokaya/Transfer-Learning-for-Medical-Image-Classification/blob/main/Deep_Minds_Group_Project.ipynb
 
-Note: You will require the json file from kaggle for uploading the dataset to the colab session.
+Note: You will require the json file from kaggle for uploading the dataset to the colab session. A sample json file is uploaded in the repository.
